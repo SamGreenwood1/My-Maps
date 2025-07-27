@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Ski",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -79.79434874325915, 45.362647871919449 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -79.79434874325915, 45.362647871919449 ] } }
+]
+}

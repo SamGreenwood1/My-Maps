@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Field of Dreams",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.792634621693068, 45.357486844629321 ], [ -79.787066412929903, 45.351752774328524 ], [ -79.782517067897871, 45.354382864425176 ], [ -79.787540303037403, 45.359121765500205 ], [ -79.792634621693068, 45.357486844629321 ] ] ] } }
+]
+}

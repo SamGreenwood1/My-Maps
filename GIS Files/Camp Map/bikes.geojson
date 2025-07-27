@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "bikes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -79.79164730298541, 45.36067933737317 ] } },
+{ "type": "Feature", "properties": { }, "geometry": null }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAMPCRAFT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -79.794172058475795, 45.36263430732793 ] } }
+]
+}

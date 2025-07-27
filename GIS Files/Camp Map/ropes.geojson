@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ropes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -79.788882610160741, 45.359474052887563 ] } }
+]
+}
